@@ -1,0 +1,49 @@
+
+7월 14, 2021 12:14:46.58 NEW SESSION
+7월 14, 2021 12:14:46.58 [8004:10184:0714/121446.584:ERROR:device_event_log_impl.cc(214)] [12:14:46.585] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 12:15:48.10 [11232:8348:0714/121548.104:ERROR:device_event_log_impl.cc(214)] [12:15:48.105] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 12:17:16.70 [3168:9504:0714/121716.708:ERROR:device_event_log_impl.cc(214)] [12:17:16.708] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 12:37:27.66 [3608:8452:0714/123727.668:ERROR:device_event_log_impl.cc(214)] [12:37:27.668] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 12:49:32.77 [3540:7072:0714/124932.774:ERROR:device_event_log_impl.cc(214)] [12:49:32.775] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 13:03:54.63 [8320:7412:0714/130354.633:ERROR:device_event_log_impl.cc(214)] [13:03:54.633] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 13:04:08.60 [5176:10752:0714/130408.608:ERROR:device_event_log_impl.cc(214)] [13:04:08.609] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 13:04:33.98 [6588:7504:0714/130433.981:ERROR:device_event_log_impl.cc(214)] [13:04:33.981] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 13:05:01.66 [364:1700:0714/130501.665:ERROR:device_event_log_impl.cc(214)] [13:05:01.666] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 13:07:52.15 [9248:10480:0714/130752.157:ERROR:device_event_log_impl.cc(214)] [13:07:52.157] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 13:08:24.64 [11644:8828:0714/130824.647:ERROR:device_event_log_impl.cc(214)] [13:08:24.647] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 15:21:56.32 [2208:3524:0714/152156.320:ERROR:device_event_log_impl.cc(214)] [15:21:56.321] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 17:09:19.23 [11716:1496:0714/170919.238:ERROR:device_event_log_impl.cc(214)] [17:09:19.239] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+7월 14, 2021 17:18:09.11 [10412:2744:0714/171809.113:ERROR:device_event_log_impl.cc(214)] [17:18:09.114] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+
+7월 20, 2021 24:36:41.10 NEW SESSION
+7월 20, 2021 24:36:41.10 [7684:15088:0720/003641.099:ERROR:device_event_log_impl.cc(214)] [00:36:41.099] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:36:41.10 [7684:15088:0720/003641.100:ERROR:device_event_log_impl.cc(214)] [00:36:41.100] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:40:17.62 [5408:15104:0720/004017.629:ERROR:device_event_log_impl.cc(214)] [00:40:17.629] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:40:17.63 [5408:15104:0720/004017.630:ERROR:device_event_log_impl.cc(214)] [00:40:17.630] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:44:28.60 [1080:14408:0720/004428.608:ERROR:device_event_log_impl.cc(214)] [00:44:28.607] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:44:28.60 [1080:14408:0720/004428.609:ERROR:device_event_log_impl.cc(214)] [00:44:28.608] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:46:28.21 [18352:12124:0720/004628.214:ERROR:device_event_log_impl.cc(214)] [00:46:28.215] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:46:28.21 [18352:12124:0720/004628.215:ERROR:device_event_log_impl.cc(214)] [00:46:28.216] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:47:34.16 [11564:6204:0720/004734.169:ERROR:device_event_log_impl.cc(214)] [00:47:34.169] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:47:34.17 [11564:6204:0720/004734.170:ERROR:device_event_log_impl.cc(214)] [00:47:34.170] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:48:00.39 [11576:15504:0720/004800.389:ERROR:device_event_log_impl.cc(214)] [00:48:00.389] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:48:00.39 [11576:15504:0720/004800.390:ERROR:device_event_log_impl.cc(214)] [00:48:00.390] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:49:53.27 [7708:10892:0720/004953.279:ERROR:device_event_log_impl.cc(214)] [00:49:53.279] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 24:49:53.28 [7708:10892:0720/004953.280:ERROR:device_event_log_impl.cc(214)] [00:49:53.280] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+7월 20, 2021 10:38:44.43 NEW SESSION
+7월 20, 2021 10:38:44.43 [4848:14948:0720/103844.429:ERROR:device_event_log_impl.cc(214)] [10:38:44.429] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 10:38:44.43 [4848:14948:0720/103844.430:ERROR:device_event_log_impl.cc(214)] [10:38:44.430] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 10:40:13.92 [18308:4412:0720/104013.923:ERROR:device_event_log_impl.cc(214)] [10:40:13.923] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 10:40:13.92 [18308:4412:0720/104013.925:ERROR:device_event_log_impl.cc(214)] [10:40:13.925] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 10:42:29.16 [20192:12316:0720/104229.167:ERROR:device_event_log_impl.cc(214)] [10:42:29.166] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 10:42:29.16 [20192:12316:0720/104229.168:ERROR:device_event_log_impl.cc(214)] [10:42:29.167] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 10:42:29.17 [20192:12316:0720/104229.171:ERROR:device_event_log_impl.cc(214)] [10:42:29.171] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 10:55:05.51 [13632:6132:0720/105505.508:ERROR:device_event_log_impl.cc(214)] [10:55:05.507] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 10:55:05.51 [13632:6132:0720/105505.509:ERROR:device_event_log_impl.cc(214)] [10:55:05.508] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 10:55:05.51 [13632:6132:0720/105505.515:ERROR:device_event_log_impl.cc(214)] [10:55:05.514] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 11:10:22.84 [13632:19372:0720/111022.845:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+7월 20, 2021 11:10:29.27 [13632:19372:0720/111029.275:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+7월 20, 2021 12:15:30.85 [13632:19372:0720/121530.852:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+7월 20, 2021 13:37:26.16 [2040:13492:0720/133726.164:ERROR:device_event_log_impl.cc(214)] [13:37:26.164] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+7월 20, 2021 13:37:26.17 [2040:13492:0720/133726.165:ERROR:device_event_log_impl.cc(214)] [13:37:26.165] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)

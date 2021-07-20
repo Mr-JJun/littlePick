@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/kimjunho/Desktop/team/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1134180875.index
+4165315704.index
+1297051568.index
+348044049.index
+1070877279.index
+2676306403.index

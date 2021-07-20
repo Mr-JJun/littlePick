@@ -1,0 +1,13 @@
+package com.javassem.dao;
+
+import org.springframework.stereotype.Repository;
+
+@Repository("reviewDAO") //(가로안은 호출시 별명)
+public class ReviewDAOImple {
+	
+	SqlSessionTemplate sqlSession;
+	
+	public void review() {
+		
+	}
+}

@@ -1,0 +1,14 @@
+package com.javassem.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class TestController {
+	
+	@RequestMapping("main.do")
+	public void test() {
+		System.out.println("controller 호출 ");
+	}
+
+}

@@ -1,0 +1,16 @@
+package com.javassem.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import com.javassem.dao.ReviewDAOImple;
+
+//@Service("reviewService") //가로안은 호출 별명 지정
+public class ReviewServiceImpl {
+	
+	//@Autowired
+	ReviewDAOImple reviewDAO;
+	
+	public String  review() {
+		return reviewDAO.review(); // 넘어오는 값 처리 또는 리턴하기 
+	}
+}

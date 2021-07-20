@@ -1,0 +1,15 @@
+package com.javassem.service;
+
+import org.springframework.stereotype.Service;
+
+import com.javassem.dao.ReviewDAOImple;
+
+@Service("reviewService") //가로안은 호출 별명 지증
+public class ReviewServiceImpl {
+	
+	ReviewDAOImple reviewDAO;
+	
+	public void review() {
+		
+	}
+}
